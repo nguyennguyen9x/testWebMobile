@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+card_bg2
+  rotate: false
+  xy: 2, 43
+  size: 146, 200
+  orig: 146, 200
+  offset: 0, 0
+  index: -1
+nhan
+  rotate: false
+  xy: 150, 79
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+x
+  rotate: false
+  xy: 150, 161
+  size: 95, 82
+  orig: 95, 82
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+skeleton.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 26
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+coin
+  rotate: true
+  xy: 254, 74
+  size: 52, 57
+  orig: 52, 57
+  offset: 0, 0
+  index: -1
+duoi
+  rotate: true
+  xy: 2, 3
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+ef
+  rotate: false
+  xy: 313, 77
+  size: 57, 49
+  orig: 57, 49
+  offset: 0, 0
+  index: -1
+ef2
+  rotate: false
+  xy: 372, 88
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+ef3
+  rotate: false
+  xy: 104, 2
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 419, 90
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: true
+  xy: 104, 27
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+huong
+  rotate: true
+  xy: 171, 87
+  size: 39, 81
+  orig: 39, 81
+  offset: 0, 0
+  index: -1
+huong2
+  rotate: false
+  xy: 132, 14
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+khoi1
+  rotate: true
+  xy: 171, 76
+  size: 9, 47
+  orig: 9, 47
+  offset: 0, 0
+  index: -1
+khoi2
+  rotate: true
+  xy: 220, 78
+  size: 7, 32
+  orig: 7, 32
+  offset: 0, 0
+  index: -1
+khoi3
+  rotate: true
+  xy: 372, 80
+  size: 6, 27
+  orig: 6, 27
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 104, 64
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1
+longmay_L
+  rotate: false
+  xy: 451, 111
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+longmay_R
+  rotate: true
+  xy: 145, 33
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+rau
+  rotate: false
+  xy: 171, 65
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1

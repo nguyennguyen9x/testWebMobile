@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 1095,1095
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Menang
+  rotate: true
+  xy: 989, 835
+  size: 258, 51
+  orig: 258, 51
+  offset: 0, 0
+  index: -1
+box_tren
+  rotate: true
+  xy: 2, 150
+  size: 370, 292
+  orig: 372, 292
+  offset: 0, 0
+  index: -1
+chiip
+  rotate: false
+  xy: 2, 38
+  size: 193, 110
+  orig: 193, 111
+  offset: 0, 1
+  index: -1
+dai
+  rotate: true
+  xy: 1042, 944
+  size: 149, 24
+  orig: 150, 24
+  offset: 0, 0
+  index: -1
+go
+  rotate: true
+  xy: 296, 6
+  size: 514, 188
+  orig: 514, 188
+  offset: 0, 0
+  index: -1
+he
+  rotate: false
+  xy: 2, 522
+  size: 985, 571
+  orig: 1071, 585
+  offset: 44, 14
+  index: -1
+laplanh
+  rotate: true
+  xy: 989, 732
+  size: 101, 104
+  orig: 119, 121
+  offset: 10, 9
+  index: -1
+light
+  rotate: false
+  xy: 687, 98
+  size: 228, 240
+  orig: 234, 244
+  offset: 2, 4
+  index: -1
+llll
+  rotate: false
+  xy: 687, 340
+  size: 402, 180
+  orig: 408, 180
+  offset: 6, 0
+  index: -1
+nap
+  rotate: true
+  xy: 486, 74
+  size: 446, 199
+  orig: 446, 199
+  offset: 0, 0
+  index: -1
+vaaaa
+  rotate: true
+  xy: 989, 648
+  size: 82, 84
+  orig: 88, 88
+  offset: 3, 2
+  index: -1
+vang
+  rotate: true
+  xy: 917, 101
+  size: 237, 148
+  orig: 237, 148
+  offset: 0, 0
+  index: -1

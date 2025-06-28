@@ -1,0 +1,118 @@
+
+skeleton.png
+size: 958,958
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer-2_00001
+  rotate: false
+  xy: 637, 282
+  size: 129, 131
+  orig: 138, 137
+  offset: 5, 2
+  index: -1
+Layer-2_00002 copy
+  rotate: true
+  xy: 768, 284
+  size: 129, 131
+  orig: 138, 137
+  offset: 5, 2
+  index: -1
+Layer-2_00003 copy
+  rotate: true
+  xy: 383, 8
+  size: 120, 131
+  orig: 138, 137
+  offset: 9, 2
+  index: -1
+Layer-2_00004 copy
+  rotate: true
+  xy: 493, 132
+  size: 94, 134
+  orig: 138, 137
+  offset: 22, 0
+  index: -1
+Layer-2_00005 copy
+  rotate: true
+  xy: 597, 415
+  size: 70, 131
+  orig: 138, 137
+  offset: 34, 2
+  index: -1
+Layer-2_00006 copy
+  rotate: true
+  xy: 730, 415
+  size: 70, 131
+  orig: 138, 137
+  offset: 34, 2
+  index: -1
+Layer-2_00007 copy
+  rotate: true
+  xy: 629, 132
+  size: 94, 134
+  orig: 138, 137
+  offset: 22, 0
+  index: -1
+Layer-2_00008 copy
+  rotate: true
+  xy: 516, 10
+  size: 120, 131
+  orig: 138, 137
+  offset: 9, 2
+  index: -1
+Layer-2_00009 copy
+  rotate: true
+  xy: 768, 153
+  size: 129, 131
+  orig: 138, 137
+  offset: 4, 2
+  index: -1
+cup
+  rotate: false
+  xy: 2, 374
+  size: 507, 582
+  orig: 520, 593
+  offset: 6, 5
+  index: -1
+hh
+  rotate: false
+  xy: 511, 487
+  size: 423, 381
+  orig: 424, 384
+  offset: 1, 2
+  index: -1
+pp
+  rotate: true
+  xy: 383, 130
+  size: 242, 108
+  orig: 243, 110
+  offset: 1, 1
+  index: -1
+satar
+  rotate: true
+  xy: 493, 228
+  size: 144, 142
+  orig: 200, 200
+  offset: 34, 36
+  index: -1
+t
+  rotate: false
+  xy: 511, 400
+  size: 84, 85
+  orig: 87, 88
+  offset: 1, 1
+  index: -1
+text2
+  rotate: false
+  xy: 511, 870
+  size: 445, 86
+  orig: 446, 86
+  offset: 0, 0
+  index: -1
+xoay
+  rotate: true
+  xy: 2, 8
+  size: 364, 379
+  orig: 372, 398
+  offset: 2, 10
+  index: -1

@@ -1,0 +1,48 @@
+
+skeleton.png
+size: 993,993
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kartu Double
+  rotate: false
+  xy: 165, 215
+  size: 369, 54
+  orig: 371, 55
+  offset: 1, 1
+  index: -1
+ligh
+  rotate: false
+  xy: 2, 177
+  size: 161, 92
+  orig: 167, 94
+  offset: 6, 1
+  index: -1
+rib
+  rotate: true
+  xy: 738, 232
+  size: 504, 220
+  orig: 510, 228
+  offset: 3, 4
+  index: -1
+roun
+  rotate: false
+  xy: 738, 738
+  size: 253, 253
+  orig: 257, 257
+  offset: 2, 2
+  index: -1
+sanng
+  rotate: false
+  xy: 2, 271
+  size: 734, 720
+  orig: 734, 720
+  offset: 0, 0
+  index: -1
+starr
+  rotate: true
+  xy: 536, 226
+  size: 43, 42
+  orig: 45, 44
+  offset: 1, 1
+  index: -1

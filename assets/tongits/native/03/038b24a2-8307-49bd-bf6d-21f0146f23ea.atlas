@@ -1,0 +1,159 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Comp 1_00000
+  rotate: false
+  xy: 479, 772
+  size: 300, 245
+  orig: 300, 245
+  offset: 0, 0
+  index: -1
+Comp 1_00001
+  rotate: false
+  xy: 2, 43
+  size: 300, 245
+  orig: 300, 245
+  offset: 0, 0
+  index: -1
+Comp 1_00002
+  rotate: false
+  xy: 479, 525
+  size: 300, 245
+  orig: 300, 245
+  offset: 0, 0
+  index: -1
+Comp 1_00003
+  rotate: false
+  xy: 399, 278
+  size: 300, 245
+  orig: 300, 245
+  offset: 0, 0
+  index: -1
+Comp 1_00004
+  rotate: false
+  xy: 304, 31
+  size: 300, 245
+  orig: 300, 245
+  offset: 0, 0
+  index: -1
+Comp 1_00005
+  rotate: false
+  xy: 606, 31
+  size: 300, 245
+  orig: 300, 245
+  offset: 0, 0
+  index: -1
+Comp 1_00006
+  rotate: false
+  xy: 701, 278
+  size: 300, 245
+  orig: 300, 245
+  offset: 0, 0
+  index: -1
+Five Face Cards
+  rotate: true
+  xy: 869, 612
+  size: 203, 76
+  orig: 203, 76
+  offset: 0, 0
+  index: -1
+bb
+  rotate: false
+  xy: 2, 290
+  size: 395, 267
+  orig: 395, 267
+  offset: 0, 0
+  index: -1
+d
+  rotate: false
+  xy: 2, 559
+  size: 475, 458
+  orig: 475, 458
+  offset: 0, 0
+  index: -1
+fff
+  rotate: true
+  xy: 908, 78
+  size: 198, 88
+  orig: 198, 88
+  offset: 0, 0
+  index: -1
+sc
+  rotate: false
+  xy: 2, 2
+  size: 201, 39
+  orig: 201, 39
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 781, 540
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+tongits
+  rotate: true
+  xy: 781, 686
+  size: 331, 86
+  orig: 331, 86
+  offset: 0, 0
+  index: -1
+vannng
+  rotate: true
+  xy: 869, 817
+  size: 200, 113
+  orig: 200, 113
+  offset: 0, 0
+  index: -1
+wing
+  rotate: true
+  xy: 781, 594
+  size: 90, 69
+  orig: 90, 69
+  offset: 0, 0
+  index: -1
+wing2
+  rotate: false
+  xy: 908, 17
+  size: 98, 59
+  orig: 98, 59
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Comp 1_00007
+  rotate: false
+  xy: 2, 2
+  size: 300, 245
+  orig: 300, 245
+  offset: 0, 0
+  index: -1
+Comp 1_00008
+  rotate: false
+  xy: 304, 2
+  size: 300, 245
+  orig: 300, 245
+  offset: 0, 0
+  index: -1
+Comp 1_00009
+  rotate: false
+  xy: 606, 2
+  size: 300, 245
+  orig: 300, 245
+  offset: 0, 0
+  index: -1
+lightt
+  rotate: false
+  xy: 908, 147
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

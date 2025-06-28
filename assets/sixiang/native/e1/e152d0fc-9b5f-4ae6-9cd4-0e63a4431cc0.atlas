@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 583, 376
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+1Copy
+  rotate: false
+  xy: 205, 131
+  size: 195, 196
+  orig: 195, 196
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 786, 755
+  size: 176, 175
+  orig: 176, 175
+  offset: 0, 0
+  index: -1
+2Copy
+  rotate: false
+  xy: 583, 730
+  size: 201, 200
+  orig: 201, 200
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 583, 551
+  size: 177, 177
+  orig: 177, 177
+  offset: 0, 0
+  index: -1
+3Copy
+  rotate: false
+  xy: 2, 125
+  size: 201, 202
+  orig: 201, 202
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 2, 2
+  size: 121, 205
+  orig: 121, 205
+  offset: 0, 0
+  index: -1
+Congratulation
+  rotate: true
+  xy: 515, 328
+  size: 680, 66
+  orig: 680, 66
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 455
+  size: 511, 553
+  orig: 511, 553
+  offset: 0, 0
+  index: -1
+bonus
+  rotate: false
+  xy: 583, 932
+  size: 412, 76
+  orig: 412, 76
+  offset: 0, 0
+  index: -1
+coin_left
+  rotate: false
+  xy: 402, 175
+  size: 39, 152
+  orig: 39, 152
+  offset: 0, 0
+  index: -1
+tag
+  rotate: false
+  xy: 2, 329
+  size: 501, 124
+  orig: 501, 124
+  offset: 0, 0
+  index: -1

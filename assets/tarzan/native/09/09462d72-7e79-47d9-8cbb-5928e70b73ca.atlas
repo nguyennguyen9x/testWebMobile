@@ -1,0 +1,145 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+day1
+  rotate: false
+  xy: 399, 40
+  size: 447, 445
+  orig: 447, 445
+  offset: 0, 0
+  index: -1
+day2
+  rotate: false
+  xy: 2, 310
+  size: 395, 712
+  orig: 395, 712
+  offset: 0, 0
+  index: -1
+day3
+  rotate: false
+  xy: 399, 487
+  size: 506, 535
+  orig: 506, 535
+  offset: 0, 0
+  index: -1
+day4
+  rotate: false
+  xy: 848, 111
+  size: 153, 374
+  orig: 153, 374
+  offset: 0, 0
+  index: -1
+diamond
+  rotate: false
+  xy: 190, 7
+  size: 124, 113
+  orig: 124, 113
+  offset: 0, 0
+  index: -1
+ef
+  rotate: false
+  xy: 399, 6
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+hoa2
+  rotate: false
+  xy: 331, 243
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+hoa3
+  rotate: true
+  xy: 2, 33
+  size: 111, 186
+  orig: 111, 186
+  offset: 0, 0
+  index: -1
+la1
+  rotate: true
+  xy: 331, 138
+  size: 103, 60
+  orig: 103, 60
+  offset: 0, 0
+  index: -1
+la2
+  rotate: true
+  xy: 907, 502
+  size: 82, 102
+  orig: 82, 102
+  offset: 0, 0
+  index: -1
+la3
+  rotate: true
+  xy: 907, 586
+  size: 144, 98
+  orig: 144, 98
+  offset: 0, 0
+  index: -1
+la4
+  rotate: true
+  xy: 193, 122
+  size: 186, 136
+  orig: 186, 136
+  offset: 0, 0
+  index: -1
+la5
+  rotate: true
+  xy: 907, 732
+  size: 183, 101
+  orig: 183, 101
+  offset: 0, 0
+  index: -1
+la7
+  rotate: false
+  xy: 2, 146
+  size: 189, 162
+  orig: 189, 162
+  offset: 0, 0
+  index: -1
+la8
+  rotate: false
+  xy: 848, 2
+  size: 166, 107
+  orig: 166, 107
+  offset: 0, 0
+  index: -1
+la9
+  rotate: true
+  xy: 316, 18
+  size: 102, 81
+  orig: 102, 81
+  offset: 0, 0
+  index: -1
+light thoi
+  rotate: false
+  xy: 907, 917
+  size: 103, 105
+  orig: 103, 105
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hoa1
+  rotate: false
+  xy: 2, 82
+  size: 130, 123
+  orig: 130, 123
+  offset: 0, 0
+  index: -1
+la10
+  rotate: false
+  xy: 2, 2
+  size: 146, 78
+  orig: 146, 78
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lightthanh
+  rotate: false
+  xy: 2, 842
+  size: 122, 18
+  orig: 122, 18
+  offset: 0, 0
+  index: -1
+thanhtren
+  rotate: false
+  xy: 2, 862
+  size: 962, 100
+  orig: 962, 100
+  offset: 0, 0
+  index: -1

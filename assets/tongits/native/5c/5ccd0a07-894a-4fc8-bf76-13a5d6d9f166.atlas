@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Compare the first round_myr
+  rotate: false
+  xy: 2, 2
+  size: 607, 52
+  orig: 607, 52
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 2, 56
+  size: 632, 85
+  orig: 632, 85
+  offset: 0, 0
+  index: -1
+dot
+  rotate: false
+  xy: 636, 129
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1

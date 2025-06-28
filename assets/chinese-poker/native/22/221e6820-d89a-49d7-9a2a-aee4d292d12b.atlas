@@ -1,0 +1,90 @@
+
+tank.png
+size: 592,592
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0/0_00000
+  rotate: false
+  xy: 475, 192
+  size: 114, 108
+  orig: 180, 180
+  offset: 30, 31
+  index: -1
+0/0_00001
+  rotate: false
+  xy: 343, 289
+  size: 130, 130
+  orig: 180, 180
+  offset: 25, 24
+  index: -1
+0/0_00002
+  rotate: false
+  xy: 176, 110
+  size: 146, 146
+  orig: 180, 180
+  offset: 17, 16
+  index: -1
+0/0_00003
+  rotate: false
+  xy: 351, 428
+  size: 162, 162
+  orig: 180, 180
+  offset: 9, 8
+  index: -1
+0/0_00004
+  rotate: false
+  xy: 179, 421
+  size: 170, 169
+  orig: 180, 180
+  offset: 5, 5
+  index: -1
+0/0_00005
+  rotate: false
+  xy: 2, 226
+  size: 172, 172
+  orig: 180, 180
+  offset: 4, 3
+  index: -1
+0/0_00006
+  rotate: false
+  xy: 2, 57
+  size: 168, 167
+  orig: 180, 180
+  offset: 6, 5
+  index: -1
+0/0_00007
+  rotate: false
+  xy: 179, 258
+  size: 162, 161
+  orig: 180, 180
+  offset: 9, 8
+  index: -1
+0/0_00008
+  rotate: false
+  xy: 324, 113
+  size: 142, 143
+  orig: 180, 180
+  offset: 19, 17
+  index: -1
+0/0_00009
+  rotate: false
+  xy: 475, 302
+  size: 108, 124
+  orig: 180, 180
+  offset: 35, 28
+  index: -1
+0/0_00010
+  rotate: false
+  xy: 515, 468
+  size: 75, 122
+  orig: 180, 180
+  offset: 67, 29
+  index: -1
+body1
+  rotate: false
+  xy: 2, 400
+  size: 175, 190
+  orig: 175, 190
+  offset: 0, 0
+  index: -1

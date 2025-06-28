@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E gold
+  rotate: false
+  xy: 371, 138
+  size: 79, 122
+  orig: 79, 122
+  offset: 0, 0
+  index: -1
+quang tron
+  rotate: false
+  xy: 371, 262
+  size: 229, 231
+  orig: 229, 231
+  offset: 0, 0
+  index: -1
+roun
+  rotate: false
+  xy: 2, 2
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+sanng
+  rotate: false
+  xy: 2, 133
+  size: 367, 360
+  orig: 367, 360
+  offset: 0, 0
+  index: -1
+starr
+  rotate: false
+  xy: 602, 471
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1

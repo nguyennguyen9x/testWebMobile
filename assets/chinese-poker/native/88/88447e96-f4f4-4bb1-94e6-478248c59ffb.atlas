@@ -1,0 +1,314 @@
+
+skeleton.png
+size: 1009,1009
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+New folder/05
+  rotate: true
+  xy: 291, 114
+  size: 84, 95
+  orig: 84, 95
+  offset: 0, 0
+  index: -1
+New folder/06
+  rotate: false
+  xy: 291, 17
+  size: 84, 95
+  orig: 84, 95
+  offset: 0, 0
+  index: -1
+New folder/08
+  rotate: true
+  xy: 131, 11
+  size: 84, 95
+  orig: 84, 95
+  offset: 0, 0
+  index: -1
+New folder/09
+  rotate: true
+  xy: 377, 10
+  size: 84, 95
+  orig: 84, 95
+  offset: 0, 0
+  index: -1
+New folder/0_00000
+  rotate: false
+  xy: 437, 96
+  size: 114, 108
+  orig: 180, 180
+  offset: 30, 31
+  index: -1
+New folder/0_00001
+  rotate: true
+  xy: 729, 99
+  size: 118, 115
+  orig: 180, 180
+  offset: 30, 31
+  index: -1
+New folder/0_00002
+  rotate: true
+  xy: 168, 370
+  size: 122, 123
+  orig: 180, 180
+  offset: 29, 28
+  index: -1
+New folder/0_00003
+  rotate: false
+  xy: 597, 211
+  size: 130, 130
+  orig: 180, 180
+  offset: 25, 24
+  index: -1
+New folder/0_00004
+  rotate: false
+  xy: 156, 233
+  size: 136, 135
+  orig: 180, 180
+  offset: 22, 22
+  index: -1
+New folder/0_00005
+  rotate: true
+  xy: 294, 200
+  size: 140, 141
+  orig: 180, 180
+  offset: 20, 19
+  index: -1
+New folder/0_00006
+  rotate: false
+  xy: 452, 350
+  size: 146, 146
+  orig: 180, 180
+  offset: 17, 16
+  index: -1
+New folder/0_00007
+  rotate: false
+  xy: 2, 146
+  size: 150, 150
+  orig: 180, 180
+  offset: 15, 14
+  index: -1
+New folder/0_00008
+  rotate: false
+  xy: 294, 342
+  size: 156, 154
+  orig: 180, 180
+  offset: 12, 12
+  index: -1
+New folder/0_00009
+  rotate: false
+  xy: 808, 342
+  size: 159, 158
+  orig: 180, 180
+  offset: 10, 10
+  index: -1
+New folder/0_00010
+  rotate: false
+  xy: 644, 501
+  size: 162, 162
+  orig: 180, 180
+  offset: 9, 8
+  index: -1
+New folder/0_00011
+  rotate: false
+  xy: 295, 498
+  size: 166, 164
+  orig: 180, 180
+  offset: 7, 7
+  index: -1
+New folder/0_00012
+  rotate: true
+  xy: 474, 498
+  size: 166, 168
+  orig: 180, 180
+  offset: 7, 5
+  index: -1
+New folder/0_00013
+  rotate: false
+  xy: 650, 665
+  size: 170, 169
+  orig: 180, 180
+  offset: 5, 5
+  index: -1
+New folder/0_00014
+  rotate: false
+  xy: 824, 665
+  size: 170, 170
+  orig: 180, 180
+  offset: 5, 4
+  index: -1
+New folder/0_00015
+  rotate: true
+  xy: 650, 836
+  size: 171, 172
+  orig: 180, 180
+  offset: 4, 3
+  index: -1
+New folder/0_00016
+  rotate: false
+  xy: 302, 835
+  size: 172, 172
+  orig: 180, 180
+  offset: 4, 3
+  index: -1
+New folder/0_00017
+  rotate: false
+  xy: 476, 835
+  size: 172, 172
+  orig: 180, 180
+  offset: 4, 3
+  index: -1
+New folder/0_00018
+  rotate: true
+  xy: 824, 837
+  size: 170, 171
+  orig: 180, 180
+  offset: 5, 3
+  index: -1
+New folder/0_00019
+  rotate: false
+  xy: 302, 664
+  size: 170, 169
+  orig: 180, 180
+  offset: 5, 4
+  index: -1
+New folder/0_00020
+  rotate: false
+  xy: 474, 666
+  size: 168, 167
+  orig: 180, 180
+  offset: 6, 5
+  index: -1
+New folder/0_00021
+  rotate: false
+  xy: 2, 616
+  size: 166, 165
+  orig: 180, 180
+  offset: 7, 6
+  index: -1
+New folder/0_00022
+  rotate: false
+  xy: 2, 450
+  size: 164, 164
+  orig: 180, 180
+  offset: 8, 7
+  index: -1
+New folder/0_00023
+  rotate: false
+  xy: 808, 502
+  size: 162, 161
+  orig: 180, 180
+  offset: 9, 8
+  index: -1
+New folder/0_00024
+  rotate: true
+  xy: 644, 343
+  size: 156, 157
+  orig: 180, 180
+  offset: 12, 10
+  index: -1
+New folder/0_00025
+  rotate: false
+  xy: 2, 298
+  size: 152, 150
+  orig: 180, 180
+  offset: 14, 13
+  index: -1
+New folder/0_00026
+  rotate: true
+  xy: 452, 206
+  size: 142, 143
+  orig: 180, 180
+  offset: 19, 17
+  index: -1
+New folder/0_00027
+  rotate: false
+  xy: 154, 97
+  size: 135, 134
+  orig: 180, 180
+  offset: 22, 22
+  index: -1
+New folder/0_00028
+  rotate: false
+  xy: 170, 494
+  size: 122, 124
+  orig: 180, 180
+  offset: 29, 28
+  index: -1
+New folder/0_00029
+  rotate: true
+  xy: 806, 231
+  size: 109, 124
+  orig: 180, 180
+  offset: 35, 28
+  index: -1
+New folder/0_00030
+  rotate: true
+  xy: 597, 101
+  size: 108, 124
+  orig: 180, 180
+  offset: 35, 28
+  index: -1
+New folder/0_00031
+  rotate: true
+  xy: 553, 7
+  size: 92, 122
+  orig: 180, 180
+  offset: 51, 29
+  index: -1
+New folder/0_00032
+  rotate: false
+  xy: 729, 219
+  size: 75, 122
+  orig: 180, 180
+  offset: 67, 29
+  index: -1
+New folder/10
+  rotate: false
+  xy: 677, 2
+  size: 84, 95
+  orig: 84, 95
+  offset: 0, 0
+  index: -1
+New folder/11
+  rotate: false
+  xy: 763, 2
+  size: 84, 95
+  orig: 84, 95
+  offset: 0, 0
+  index: -1
+New folder/12
+  rotate: false
+  xy: 846, 134
+  size: 84, 95
+  orig: 84, 95
+  offset: 0, 0
+  index: -1
+New folder/13
+  rotate: false
+  xy: 849, 37
+  size: 84, 95
+  orig: 84, 95
+  offset: 0, 0
+  index: -1
+New folder/14
+  rotate: false
+  xy: 2, 8
+  size: 127, 136
+  orig: 134, 138
+  offset: 4, 1
+  index: -1
+bom
+  rotate: false
+  xy: 170, 620
+  size: 123, 161
+  orig: 124, 164
+  offset: 1, 0
+  index: -1
+star
+  rotate: false
+  xy: 2, 783
+  size: 298, 224
+  orig: 298, 224
+  offset: 0, 0
+  index: -1

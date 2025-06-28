@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 979,979
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BETTIME
+  rotate: true
+  xy: 831, 704
+  size: 273, 59
+  orig: 275, 60
+  offset: 1, 1
+  index: -1
+BETTIME2
+  rotate: false
+  xy: 712, 164
+  size: 234, 91
+  orig: 235, 92
+  offset: 1, 1
+  index: -1
+ligh
+  rotate: false
+  xy: 712, 70
+  size: 161, 92
+  orig: 167, 94
+  offset: 6, 1
+  index: -1
+open
+  rotate: false
+  xy: 712, 10
+  size: 172, 58
+  orig: 174, 60
+  offset: 1, 1
+  index: -1
+rib
+  rotate: false
+  xy: 257, 45
+  size: 453, 210
+  orig: 459, 216
+  offset: 3, 3
+  index: -1
+roun
+  rotate: false
+  xy: 2, 2
+  size: 253, 253
+  orig: 257, 257
+  offset: 2, 2
+  index: -1
+sanng
+  rotate: false
+  xy: 2, 257
+  size: 734, 720
+  orig: 734, 720
+  offset: 0, 0
+  index: -1
+starr
+  rotate: false
+  xy: 875, 120
+  size: 43, 42
+  orig: 45, 44
+  offset: 1, 1
+  index: -1
+texteng
+  rotate: true
+  xy: 738, 356
+  size: 329, 54
+  orig: 332, 55
+  offset: 2, 1
+  index: -1
+texteng2
+  rotate: true
+  xy: 738, 687
+  size: 290, 91
+  orig: 292, 92
+  offset: 1, 1
+  index: -1
+txt_compare
+  rotate: true
+  xy: 848, 409
+  size: 293, 60
+  orig: 294, 62
+  offset: 1, 1
+  index: -1
+txt_compare2
+  rotate: true
+  xy: 794, 359
+  size: 326, 52
+  orig: 328, 53
+  offset: 1, 1
+  index: -1

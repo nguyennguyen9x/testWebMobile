@@ -1,0 +1,139 @@
+
+skeleton.png
+size: 833,833
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Baccarat
+  rotate: true
+  xy: 745, 506
+  size: 325, 86
+  orig: 326, 87
+  offset: 1, 1
+  index: -1
+Bandar_QQ
+  rotate: true
+  xy: 305, 160
+  size: 367, 91
+  orig: 368, 91
+  offset: 1, 0
+  index: -1
+Black_jack
+  rotate: true
+  xy: 212, 152
+  size: 375, 91
+  orig: 376, 91
+  offset: 1, 0
+  index: -1
+Capsa_Susun
+  rotate: false
+  xy: 398, 121
+  size: 214, 117
+  orig: 215, 117
+  offset: 1, 0
+  index: -1
+Domino_Gaple
+  rotate: false
+  xy: 272, 6
+  size: 265, 113
+  orig: 265, 114
+  offset: 0, 1
+  index: -1
+Dragon_Tiger
+  rotate: false
+  xy: 2, 26
+  size: 268, 118
+  orig: 269, 118
+  offset: 1, 0
+  index: -1
+Fruit_Slots
+  rotate: false
+  xy: 539, 2
+  size: 197, 117
+  orig: 198, 118
+  offset: 1, 1
+  index: -1
+Inca_Slots
+  rotate: false
+  xy: 373, 591
+  size: 367, 90
+  orig: 368, 91
+  offset: 1, 1
+  index: -1
+Juicy_Garden
+  rotate: false
+  xy: 614, 124
+  size: 193, 119
+  orig: 194, 120
+  offset: 1, 1
+  index: -1
+Kartu_Qiu
+  rotate: true
+  xy: 398, 240
+  size: 349, 88
+  orig: 350, 89
+  offset: 1, 1
+  index: -1
+Noel_Slots
+  rotate: true
+  xy: 118, 146
+  size: 381, 92
+  orig: 382, 92
+  offset: 1, 0
+  index: -1
+Si_Xiang
+  rotate: true
+  xy: 615, 311
+  size: 278, 128
+  orig: 279, 129
+  offset: 1, 1
+  index: -1
+Sicbo
+  rotate: true
+  xy: 745, 307
+  size: 197, 76
+  orig: 197, 77
+  offset: 0, 1
+  index: -1
+Tarzans_Treasure
+  rotate: true
+  xy: 488, 282
+  size: 307, 125
+  orig: 308, 126
+  offset: 1, 1
+  index: -1
+ef1
+  rotate: false
+  xy: 2, 675
+  size: 369, 156
+  orig: 371, 158
+  offset: 1, 1
+  index: -1
+ef2
+  rotate: false
+  xy: 373, 683
+  size: 362, 148
+  orig: 364, 150
+  offset: 1, 1
+  index: -1
+gift
+  rotate: false
+  xy: 2, 529
+  size: 367, 144
+  orig: 368, 145
+  offset: 0, 1
+  index: -1
+light
+  rotate: false
+  xy: 615, 245
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+text_indo
+  rotate: true
+  xy: 2, 157
+  size: 370, 114
+  orig: 371, 115
+  offset: 1, 1
+  index: -1

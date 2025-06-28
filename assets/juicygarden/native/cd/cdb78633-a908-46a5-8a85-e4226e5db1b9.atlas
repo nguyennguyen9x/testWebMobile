@@ -1,0 +1,286 @@
+
+skeleton.png
+size: 558,558
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0/0_00000
+  rotate: true
+  xy: 2, 228
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+0/0_00001
+  rotate: false
+  xy: 111, 356
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+0/0_00002
+  rotate: false
+  xy: 373, 502
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+0/0_00003
+  rotate: true
+  xy: 2, 112
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+0/0_00004
+  rotate: true
+  xy: 58, 228
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+0/0_00005
+  rotate: true
+  xy: 58, 112
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+0/0_00006
+  rotate: true
+  xy: 114, 240
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+0/0_00007
+  rotate: true
+  xy: 114, 124
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+0/0_00008
+  rotate: true
+  xy: 170, 240
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+0/0_00009
+  rotate: true
+  xy: 170, 124
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+0/0_00010
+  rotate: false
+  xy: 374, 446
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+0/0_00011
+  rotate: false
+  xy: 374, 390
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+0/0_00012
+  rotate: true
+  xy: 490, 382
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+0/0_00013
+  rotate: false
+  xy: 114, 68
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+0/0_00014
+  rotate: false
+  xy: 91, 12
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+0/0_00015
+  rotate: true
+  xy: 226, 240
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+0/0_00016
+  rotate: true
+  xy: 226, 124
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+0/0_00017
+  rotate: false
+  xy: 227, 356
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+0/0_00018
+  rotate: true
+  xy: 282, 240
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+0/0_00019
+  rotate: true
+  xy: 282, 124
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+0/0_00020
+  rotate: false
+  xy: 230, 68
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+0/0_00021
+  rotate: false
+  xy: 207, 12
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+0/0_00022
+  rotate: true
+  xy: 338, 240
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+0/0_00023
+  rotate: true
+  xy: 338, 124
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+0/0_00024
+  rotate: true
+  xy: 394, 274
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+0/0_00025
+  rotate: true
+  xy: 394, 158
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+0/0_00026
+  rotate: true
+  xy: 450, 266
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+0/0_00027
+  rotate: true
+  xy: 450, 150
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+0/0_00028
+  rotate: false
+  xy: 346, 68
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+0/0_00029
+  rotate: false
+  xy: 323, 12
+  size: 114, 54
+  orig: 114, 54
+  offset: 0, 0
+  index: -1
+Buy
+  rotate: false
+  xy: 268, 490
+  size: 103, 66
+  orig: 103, 66
+  offset: 0, 0
+  index: -1
+Vector Smart Object
+  rotate: false
+  xy: 2, 30
+  size: 87, 80
+  orig: 87, 80
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 412
+  size: 264, 144
+  orig: 264, 144
+  offset: 0, 0
+  index: -1
+buy2
+  rotate: false
+  xy: 2, 344
+  size: 107, 66
+  orig: 107, 66
+  offset: 0, 0
+  index: -1
+cay1
+  rotate: false
+  xy: 268, 432
+  size: 104, 56
+  orig: 104, 56
+  offset: 0, 0
+  index: -1
+chip1
+  rotate: true
+  xy: 506, 233
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+chip2
+  rotate: false
+  xy: 506, 281
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+hoa3
+  rotate: true
+  xy: 506, 326
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+sao1
+  rotate: false
+  xy: 490, 498
+  size: 66, 58
+  orig: 66, 58
+  offset: 0, 0
+  index: -1
+twi
+  rotate: false
+  xy: 462, 79
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1

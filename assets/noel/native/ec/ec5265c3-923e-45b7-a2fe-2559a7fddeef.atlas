@@ -1,0 +1,236 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 1/Group 11_00000
+  rotate: false
+  xy: 2, 789
+  size: 275, 170
+  orig: 275, 170
+  offset: 0, 0
+  index: -1
+Group 1/Group 11_00001
+  rotate: false
+  xy: 279, 770
+  size: 275, 170
+  orig: 275, 170
+  offset: 0, 0
+  index: -1
+Group 1/Group 11_00002
+  rotate: false
+  xy: 556, 770
+  size: 275, 170
+  orig: 275, 170
+  offset: 0, 0
+  index: -1
+Group 1/Group 11_00003
+  rotate: true
+  xy: 833, 665
+  size: 275, 170
+  orig: 275, 170
+  offset: 0, 0
+  index: -1
+Group 1/Group 11_00004
+  rotate: false
+  xy: 2, 617
+  size: 275, 170
+  orig: 275, 170
+  offset: 0, 0
+  index: -1
+Group 1/Group 11_00005
+  rotate: false
+  xy: 279, 598
+  size: 275, 170
+  orig: 275, 170
+  offset: 0, 0
+  index: -1
+Group 1/Group 11_00006
+  rotate: false
+  xy: 556, 598
+  size: 275, 170
+  orig: 275, 170
+  offset: 0, 0
+  index: -1
+Group 1/Group 11_00007
+  rotate: false
+  xy: 2, 445
+  size: 275, 170
+  orig: 275, 170
+  offset: 0, 0
+  index: -1
+Group 1/Group 11_00008
+  rotate: false
+  xy: 279, 426
+  size: 275, 170
+  orig: 275, 170
+  offset: 0, 0
+  index: -1
+Group 1/Group 11_00009
+  rotate: false
+  xy: 556, 426
+  size: 275, 170
+  orig: 275, 170
+  offset: 0, 0
+  index: -1
+Group 1/Group 11_00010
+  rotate: true
+  xy: 833, 388
+  size: 275, 170
+  orig: 275, 170
+  offset: 0, 0
+  index: -1
+Group 1/Group 11_00011
+  rotate: false
+  xy: 2, 273
+  size: 275, 170
+  orig: 275, 170
+  offset: 0, 0
+  index: -1
+Group 1/Group 11_00012
+  rotate: false
+  xy: 279, 254
+  size: 275, 170
+  orig: 275, 170
+  offset: 0, 0
+  index: -1
+Group 1/Group 11_00013
+  rotate: false
+  xy: 556, 254
+  size: 275, 170
+  orig: 275, 170
+  offset: 0, 0
+  index: -1
+Group 1/Group 11_00014
+  rotate: true
+  xy: 833, 111
+  size: 275, 170
+  orig: 275, 170
+  offset: 0, 0
+  index: -1
+Group 1/Group 11_00015
+  rotate: false
+  xy: 2, 101
+  size: 275, 170
+  orig: 275, 170
+  offset: 0, 0
+  index: -1
+Group 1/Group 11_00016
+  rotate: false
+  xy: 279, 82
+  size: 275, 170
+  orig: 275, 170
+  offset: 0, 0
+  index: -1
+Group 1/Group 11_00017
+  rotate: false
+  xy: 556, 82
+  size: 275, 170
+  orig: 275, 170
+  offset: 0, 0
+  index: -1
+Groupa 11
+  rotate: false
+  xy: 457, 942
+  size: 472, 59
+  orig: 472, 59
+  offset: 0, 0
+  index: -1
+Groupa 121
+  rotate: false
+  xy: 2, 961
+  size: 453, 40
+  orig: 453, 40
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 1/Group 11_00018
+  rotate: false
+  xy: 2, 831
+  size: 275, 170
+  orig: 275, 170
+  offset: 0, 0
+  index: -1
+Group 1/Group 11_00019
+  rotate: false
+  xy: 2, 659
+  size: 275, 170
+  orig: 275, 170
+  offset: 0, 0
+  index: -1
+Group 1/Group 11_00020
+  rotate: false
+  xy: 279, 831
+  size: 275, 170
+  orig: 275, 170
+  offset: 0, 0
+  index: -1
+Group 1/Group 11_00021
+  rotate: false
+  xy: 2, 487
+  size: 275, 170
+  orig: 275, 170
+  offset: 0, 0
+  index: -1
+Group 1/Group 11_00022
+  rotate: false
+  xy: 279, 659
+  size: 275, 170
+  orig: 275, 170
+  offset: 0, 0
+  index: -1
+Group 1/Group 11_00023
+  rotate: false
+  xy: 556, 831
+  size: 275, 170
+  orig: 275, 170
+  offset: 0, 0
+  index: -1
+Group 1/Group 11_00024
+  rotate: false
+  xy: 2, 315
+  size: 275, 170
+  orig: 275, 170
+  offset: 0, 0
+  index: -1
+Group 1/Group 11_00025
+  rotate: false
+  xy: 279, 487
+  size: 275, 170
+  orig: 275, 170
+  offset: 0, 0
+  index: -1
+Group 1/Group 11_00026
+  rotate: false
+  xy: 556, 659
+  size: 275, 170
+  orig: 275, 170
+  offset: 0, 0
+  index: -1
+Group 1/Group 11_00027
+  rotate: true
+  xy: 833, 726
+  size: 275, 170
+  orig: 275, 170
+  offset: 0, 0
+  index: -1
+Group 1/Group 11_00028
+  rotate: false
+  xy: 2, 143
+  size: 275, 170
+  orig: 275, 170
+  offset: 0, 0
+  index: -1
+Group 1/Group 11_00029
+  rotate: false
+  xy: 279, 315
+  size: 275, 170
+  orig: 275, 170
+  offset: 0, 0
+  index: -1

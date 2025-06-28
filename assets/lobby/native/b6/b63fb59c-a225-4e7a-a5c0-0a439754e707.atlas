@@ -1,0 +1,104 @@
+
+skeleton.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 22
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 153, 86
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: false
+  xy: 188, 86
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+heart
+  rotate: false
+  xy: 108, 40
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+lip
+  rotate: false
+  xy: 108, 80
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+longmay_L
+  rotate: false
+  xy: 2, 4
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+longmay_R
+  rotate: false
+  xy: 223, 88
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+mahong_L
+  rotate: false
+  xy: 193, 49
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+mahong_R
+  rotate: false
+  xy: 149, 13
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+mitren_L
+  rotate: false
+  xy: 108, 4
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+mitren_R
+  rotate: false
+  xy: 153, 50
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+notruoi
+  rotate: true
+  xy: 188, 2
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+vay_L
+  rotate: false
+  xy: 223, 106
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+vay_R
+  rotate: false
+  xy: 188, 27
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1

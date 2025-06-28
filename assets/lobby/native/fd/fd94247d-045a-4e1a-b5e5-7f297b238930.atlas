@@ -1,0 +1,97 @@
+
+skeleton_3.7_output.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 42
+  rotate: false
+  xy: 211, 109
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 26
+  size: 102, 100
+  orig: 102, 100
+  offset: 0, 0
+  index: -1
+connguoi_L
+  rotate: false
+  xy: 89, 2
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+connguoi_R
+  rotate: true
+  xy: 74, 2
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+duoi
+  rotate: true
+  xy: 2, 2
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: true
+  xy: 106, 31
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: false
+  xy: 178, 89
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+longmay_L
+  rotate: false
+  xy: 211, 92
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+longmay_r
+  rotate: false
+  xy: 139, 37
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+mitren_R
+  rotate: false
+  xy: 46, 6
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 106, 58
+  size: 70, 68
+  orig: 70, 68
+  offset: 0, 0
+  index: -1
+notduoi
+  rotate: false
+  xy: 74, 15
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+vay
+  rotate: false
+  xy: 178, 68
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1

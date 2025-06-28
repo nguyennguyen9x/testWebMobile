@@ -1,0 +1,258 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Comp 1/Comp 1_00000
+  rotate: false
+  xy: 173, 812
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00001
+  rotate: false
+  xy: 2, 485
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00002
+  rotate: false
+  xy: 325, 812
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00003
+  rotate: false
+  xy: 2, 333
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00004
+  rotate: false
+  xy: 477, 812
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00005
+  rotate: false
+  xy: 2, 181
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00006
+  rotate: false
+  xy: 629, 812
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00007
+  rotate: false
+  xy: 2, 29
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00008
+  rotate: false
+  xy: 781, 812
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00009
+  rotate: false
+  xy: 339, 660
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00010
+  rotate: false
+  xy: 491, 660
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00011
+  rotate: false
+  xy: 643, 660
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00012
+  rotate: false
+  xy: 795, 660
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00013
+  rotate: false
+  xy: 158, 536
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00014
+  rotate: false
+  xy: 154, 384
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00015
+  rotate: false
+  xy: 154, 232
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00016
+  rotate: false
+  xy: 154, 80
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00017
+  rotate: false
+  xy: 310, 508
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00018
+  rotate: false
+  xy: 462, 508
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00019
+  rotate: false
+  xy: 614, 508
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00020
+  rotate: false
+  xy: 766, 508
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00021
+  rotate: false
+  xy: 306, 356
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00022
+  rotate: false
+  xy: 306, 204
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00023
+  rotate: false
+  xy: 458, 356
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00024
+  rotate: false
+  xy: 458, 204
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00025
+  rotate: false
+  xy: 610, 356
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00026
+  rotate: false
+  xy: 610, 204
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00027
+  rotate: false
+  xy: 762, 356
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00028
+  rotate: false
+  xy: 762, 204
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00029
+  rotate: false
+  xy: 306, 52
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Rectangle 8
+  rotate: false
+  xy: 2, 793
+  size: 169, 169
+  orig: 169, 169
+  offset: 0, 0
+  index: -1
+Rectangle 8 copy
+  rotate: false
+  xy: 2, 637
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+ef
+  rotate: false
+  xy: 555, 104
+  size: 94, 98
+  orig: 94, 98
+  offset: 0, 0
+  index: -1
+ef2
+  rotate: false
+  xy: 2, 2
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+mangcut
+  rotate: false
+  xy: 458, 104
+  size: 95, 98
+  orig: 95, 98
+  offset: 0, 0
+  index: -1
+mangcut2
+  rotate: false
+  xy: 173, 688
+  size: 164, 122
+  orig: 164, 122
+  offset: 0, 0
+  index: -1
